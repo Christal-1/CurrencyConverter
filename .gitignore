@@ -1,0 +1,7 @@
+# Ignore build outputs
+bin/
+obj/
+
+# Rider and VSCode settings (optional)
+.idea/
+.vscode/
