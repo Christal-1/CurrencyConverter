@@ -17,7 +17,7 @@ A simple .NET console application that converts currencies using the ExchangeRat
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/CurrencyConverter.git
+    git clone https://github.com/Christal-1/CurrencyConverter.git
     ```
 2. Navigate into the project directory:
     ```bash
@@ -42,6 +42,3 @@ Replace `YOUR_API_KEY` in `Program.cs` with your actual API key from [ExchangeRa
 2. Enter the target currency (e.g., EUR).
 3. Enter the amount to convert.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
